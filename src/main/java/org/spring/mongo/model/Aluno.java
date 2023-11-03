@@ -13,7 +13,7 @@ public class Aluno {
     private String nome;
     private Curso curso;
     private List<Nota> notas;
-    private Date dataNascimento;
+    private String dataNascimento;
     private List<Habilidade> habilidades;
 
 }
